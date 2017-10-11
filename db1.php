@@ -4,8 +4,8 @@
 <body>
     <form method="post" id="dept_form">
     Enter Id :<input type="text" name="id"><br><br>
-    Enter FristName :<input type="text" name="first_name"><br><br>
-    Enter LastName :<input type="text"name="second_name"><br><br>
+    Enter Frist the Name :<input type="text" name="first_name"><br><br>
+    Enter Last d Name :<input type="text"name="second_name"><br><br>
     Enter Email :<input type="text"name="email"><br><br>
     Enter RegData :<input type="text" name="reg_data"><br><br>
     <input type="button" id="btn1" value="ADD">
