@@ -7,6 +7,6 @@ if($id)
   echo "added success";
 }
 else {
-  echo "error occured";
+  echo "error occured please check connections";
 }
 ?>
